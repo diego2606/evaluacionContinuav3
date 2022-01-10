@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
+    <color name="red_500">#f44336</color>
+    <color name="red_600">#ba000d</color>
+    <color name="red_400">#ff7961</color>
+    <color name="red_800">#c62828</color>
+    <color name="red_900">#b71c1c</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey">#bdbdbd</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="autoGridBackgroundColor">#FFFBFA</color>
+
+    <color name="night_mode">#B6462B</color>
+    <color name="notification">#E0EFDE</color>
+    <color name="private_account">#B54E42</color>
+    <color name="security">#A94634</color>
+
+    <color name="content_text">#212121</color>
+    <color name="cloud_mode">#f44336</color>
 </resources>

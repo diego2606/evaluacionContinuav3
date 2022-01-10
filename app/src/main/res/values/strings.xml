@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">evaluacioncontinuav3</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_cancel_button">Cancel</string>
+    <string name="login_error_message">Password must have 6 characters</string>
+    <string name="search_title">Search</string>
+    <string name="filter_title">Filter</string>
+    <string name="car_title">Title</string>
+    <string name="car_description">hi, this is a new car.</string>
+    <string name="menu_auto_featured">Featured</string>
+    <string name="menu_auto_category">Category</string>
+    <string name="menu_auto_nissan">Nissan</string>
+    <string name="menu_auto_toyota">Toyota</string>
+    <string name="menu_auto_bmw">BMW</string>
+    <string name="menu_auto_audi">Audi</string>
+    <string name="menu_auto_ford">Ford</string>
+    <string name="menu_auto_account">Account</string>
+    <string name="header_toolbar_setting">Settings</string>
 </resources>
